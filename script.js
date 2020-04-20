@@ -18,14 +18,6 @@ function toggleDiv(){
   document.getElementById("output").style.display = "block";
   document.getElementById("chat").style.display = "none";
 }
-if(document.getElementById("chat").style.display == "block"){
-  document.getElementById("chat").style.display = "none";
-}
-
-function toggleChat(){
-  document.getElementById("output").style.display = "none";
-  document.getElementById("chat").style.display = "block";
-}
 
 addEventListener("keydown", function(e){
   if(e.keyCode == 190){

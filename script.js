@@ -1,3 +1,5 @@
+window.location = "/index";
+
 //post(content, postTo)
 
 var def = "output";

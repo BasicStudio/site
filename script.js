@@ -1,4 +1,4 @@
-window.location = "/index";
+window.location = "https://basicstudio.github.io/site/index.html";
 
 //post(content, postTo)
 

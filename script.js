@@ -16,7 +16,6 @@ post("<small>"+"You can contact me through discord <b>Javascriptgold#8252</b>"+"
 
 function toggleDiv(){
   document.getElementById("output").style.display = "block";
-  document.getElementById("chat").style.display = "none";
 }
 
 addEventListener("keydown", function(e){

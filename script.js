@@ -1,4 +1,4 @@
-window.location = "https://basicstudio.github.io/site/index.html";
+window.location.replace = "https://basicstudio.github.io/site/index.html";
 
 //post(content, postTo)
 

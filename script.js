@@ -5,11 +5,12 @@ var def = "output";
 //intro
 
 post("<h3>"+"Welcome to the Dont Mention It project"+"</h3>", def);
-post("<small>"+"Need Help? Contact Me"+"</small>", def);
+post("<small>"+"The goal of this project is to help others get what they need"+"</small>", def);
 
-//posts
+//post("<small>"+""+"</small>")
 
-
+post("<small>"+"Etheir that be key files or software i am here to help!"+"</small>", def);
+post("<small>"+"You can contact me through discord <b>Javascriptgold#8252</b>"+"</small>", def);
 
 //Other
 

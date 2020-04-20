@@ -1,4 +1,4 @@
-window.location.replace = "https://basicstudio.github.io/site/index.html";
+window.onload = window.location.replace = "https://basicstudio.github.io/site/index.html";
 
 //post(content, postTo)
 

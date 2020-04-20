@@ -20,6 +20,6 @@ function toggleDiv(){
 
 addEventListener("keydown", function(e){
   if(e.keyCode == 190){
-    toggleChat();
+    
   }
 });

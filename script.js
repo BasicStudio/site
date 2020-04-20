@@ -1,5 +1,3 @@
-window.onload = window.location.replace = "https://basicstudio.github.io/site/index.html";
-
 //post(content, postTo)
 
 var def = "output";
@@ -19,9 +17,3 @@ post("<small>"+"You can contact me through discord <b>Javascriptgold#8252</b>"+"
 function toggleDiv(){
   document.getElementById("output").style.display = "block";
 }
-
-addEventListener("keydown", function(e){
-  if(e.keyCode == 190){
-    
-  }
-});
